@@ -1,0 +1,22 @@
+{
+  "name": "planetrise",
+  "version": "1.0.0",
+  "description": "A MagicMirror² module to display the rise and set times of the planets.",
+  "main": "planetrise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/croxis/planetrise.git"
+  },
+  "keywords": [
+    "astronomy"
+  ],
+  "author": "croxis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/croxis/planetrise/issues"
+  },
+  "homepage": "https://github.com/croxis/planetrise#readme"
+}
