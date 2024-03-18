@@ -6,7 +6,7 @@ This module is powered with Don Cross's javascript library [astronomy.js](https:
 
 ## Screenshot
 
-[Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Installation
 
