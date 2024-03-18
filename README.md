@@ -22,11 +22,10 @@ git clone https://github.com/croxis/planetrise
 To use this module, add it to the modules array in the `config/config.js` file:
 
 ```javascript
-modules: [
     {
-        module: 'planetrise',
-        position: 'top_right', // This can be any of the regions.
-        header: 'PLanet Rise',
+        module: "planetrise",
+        position: "top_right", // This can be any of the regions.
+        header: "Planet Rise",
         config: {  // Place the latitude and longitude of your mirror
             latitude: 45.5,
             longitude: -122.38,
@@ -35,17 +34,16 @@ modules: [
             // A full list of bodies can be seen on line 1359 in astronomy.js
             // Note: Trying to find the rise time of Earth will crash the module
             bodies: {
-                'Sun': '☉',
-                'Moon': '☽',
-                'Mercury': '☿',
-                'Venus': '♀',
-                'Mars': '♂',
-                'Jupiter': '♃',
-                'Saturn': '♄',
+                Sun: "☉",
+                Moon: "☽",
+                Mercury: "☿",
+                Venus: "♀",
+                Mars: "♂",
+                Jupiter: "♃",
+                Saturn: "♄"
             }
         }
-    }
-]
+    },
 ```
 
 ## Update
