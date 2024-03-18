@@ -1,7 +1,13 @@
 # Module planetrise
+
 Calculates and display the rise and set times of the planets for Magic Mirror 2
 
 This module is powered with Don Cross's javascript library [astronomy.js](http://cosinekitty.com).
+
+## Screenshot
+
+[Screenshot](screenshot.png)
+
 ## Using the module
 
 To use this module, add it to the modules array in the `config/config.js` file:
