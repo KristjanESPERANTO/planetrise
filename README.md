@@ -52,4 +52,5 @@ Go to the module’s folder inside MagicMirror modules folder and pull the lates
 
 ```bash
 cd ~/MagicMirror/modules/planetrise
+git pull
 ```
